@@ -9,4 +9,3 @@ COPY . .
 
 # Expose port
 EXPOSE 80
-
